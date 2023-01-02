@@ -1,0 +1,33 @@
+# Recommendations with IBM
+## Table of Contents
+ * [Installations](#installations)
+ * [Project Motivation](#project-motivation)
+ * [File Descriptions](#file-descriptions)
+ * [Licensing, Authors, Acknowledgements, etc.](#licensing-authors-acknowledgements-etc)
+ 
+
+## Libraries
+ - NumPy
+ - Pandas
+ - Seaborn
+ - Matplotlib
+ - Pickle
+ 
+
+## Project Motivation
+For this project, I wanted to look at how users interact with articles on the IBM Watson Studio platform and give them suggestions for new articles they might like. The following tasks were divided into the project::
+ - Exploratory Data Analysis
+ - Rank Based Recommendations
+ - User-User Based Collaborative Filtering
+ - Matrix factorisation
+
+## File Descriptions
+
+data    
+
+Recommendations_with_IBM.ipynb: Jupyter notebook containing main implementation and analysis.
+Recommendations_with_IBM.html: A copy of Recommendations_with_IBM.ipynb in html format.
+ 
+
+## Licensing, Authors, Acknowledgements, etc.
+Acknowledgement should go to Udacity for the project inspiration.
